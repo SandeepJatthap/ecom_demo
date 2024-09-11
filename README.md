@@ -28,7 +28,7 @@ Clone the repository:
 
 
 Copy code
-git clone https://github.com/yourusername/ecommerce_demo_app.git
+git clone https://github.com/SandeepJatthap/ecom_demo/tree/main
 cd ecommerce_demo_app
 Note: Use main branch to pull code
 
