@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "7737962751",
+    "project_id": "ecom-demo-13afe",
+    "storage_bucket": "ecom-demo-13afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7737962751:android:17f5b5597ab954d2641cca",
+        "android_client_info": {
+          "package_name": "com.demo.ecom.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7737962751-d4ie37nqnoju3a2qg8e4mpi5e7c7cojv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByABPMimVeJ3dwkvgpi2E0aff8m3_cXHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7737962751-d4ie37nqnoju3a2qg8e4mpi5e7c7cojv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7737962751-i19q5pqprakgtb7un0ubpqgbl8vdiosi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.demo.ecom.taskEcomApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
